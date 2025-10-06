@@ -1,0 +1,4 @@
+:root{font-family:system-ui,Segoe UI,Roboto,'Helvetica Neue',Arial;line-height:1.5}
+body{max-width:900px;margin:3rem auto;padding:1rem}
+header{display:flex;justify-content:space-between;align-items:center}
+a{color:inherit;text-decoration:underline}
